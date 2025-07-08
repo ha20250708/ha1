@@ -10,4 +10,4 @@
 
 该平台聚合了多个热门的成人影片内容，涵盖了大量的av类别，确保您能够找到自己喜爱的影片。每个视频页面都提供了详细的影片介绍，包括时长、演员及清晰度等，平台支持高清视频播放，且能够根据网络状况自动优化画质，保证流畅的观看体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/ha20250708/ha1 ）</span>
